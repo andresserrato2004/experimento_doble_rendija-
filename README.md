@@ -1,4 +1,6 @@
 #Experimento doble rendija:
+
+
 Este experimento busca demostrar el comportamiento ondulatorio de la luz que llevo a crear una nueva teoría relacionada con la física cuántica que muestra un fenómeno realmente complejo 
 
 
