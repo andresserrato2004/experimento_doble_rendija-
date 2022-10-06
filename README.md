@@ -25,15 +25,16 @@ Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única
 
 Una manera de poder entender este experimento en forma de grafos sería la siguiente, suponiendo que tenemos 6 receptores:
 
-[![probabilidad-2.png](https://i.postimg.cc/MGQ8tK5d/probabilidad-2.png)](https://postimg.cc/CZStx0Wq)
+[![probabilidad-2.png](https://i.postimg.cc/HWQvz7gr/probabilidad-2.png)](https://postimg.cc/7bZNYhb4)
 
 Donde la matriz que representa la dinámica del sistema (teoricamente) sería la siguiente:
 
-[![matriz2.png](https://i.postimg.cc/PrVsj8FS/matriz2.png)](https://postimg.cc/SJ9tLj49)
+[![matriz2.png](https://i.postimg.cc/j2rgKRzq/matriz2.png)](https://postimg.cc/Q90kJG4v)
+
 
 Que en la practica, en codigo se ve de la siguiente manera:
 
-[![dos-clicks.png](https://i.postimg.cc/MpckKKCq/dos-clicks.png)](https://postimg.cc/sMRHTyfN)
+[![dos-clicks.png](https://i.postimg.cc/05dZDRYm/dos-clicks.png)](https://postimg.cc/23y4NtX8)
 
 De la cual la probabilidad de estado despues de dos clicks de tiempo sería:
 
