@@ -57,7 +57,7 @@ En donde la forma de matriz se aprecia de la siguiente manera:
 
 [![Captura-de-pantalla-2022-10-05-214233.png](https://i.postimg.cc/K8C6KhbL/Captura-de-pantalla-2022-10-05-214233.png)](https://postimg.cc/xXyx77cT)
 
-Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única y después un 25% de tocar cualquiera de lo siguientes blancos y cada uno de los receptores es reflexivo consigo mismo.
+Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única y después un 1/3% de tocar cualquiera de lo siguientes blancos y cada uno de los receptores es reflexivo consigo mismo.
 
 ### Experimento con 2 rendijas:
 
