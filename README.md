@@ -25,29 +25,29 @@ Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única
 
 Una manera de poder entender este experimento en forma de grafos sería la siguiente, suponiendo que tenemos 6 receptores:
 
-![](imgs/11.png)
+[![probabilidad-2.png](https://i.postimg.cc/MGQ8tK5d/probabilidad-2.png)](https://postimg.cc/CZStx0Wq)
 
 Donde la matriz que representa la dinámica del sistema (teoricamente) sería la siguiente:
 
-![](imgs/12.png)
+[![matriz2.png](https://i.postimg.cc/PrVsj8FS/matriz2.png)](https://postimg.cc/SJ9tLj49)
 
 Que en la practica, en codigo se ve de la siguiente manera:
 
-![](imgs/13.png)
+[![dos-clicks.png](https://i.postimg.cc/MpckKKCq/dos-clicks.png)](https://postimg.cc/sMRHTyfN)
 
 De la cual la probabilidad de estado despues de dos clicks de tiempo sería:
 
-![](imgs/dosClicks.png)
+[![Whats-App-Image-2022-10-04-at-10-30-49-PM.jpg](https://i.postimg.cc/Jzt8DQkw/Whats-App-Image-2022-10-04-at-10-30-49-PM.jpg)](https://postimg.cc/gx9Q18s4)
 
 Es decir que tenemos un 50% de probabilidad de que el rayo láser se vaya por alguna de las dos rendijas. Luego de pasar por alguna de las dos rendijas que vendrían a ser los estados 1 y 2 vemos que hay una probabilidad de 1/6 o 16.66 % de que toque alguno de los receptores.
 
 ### Simulación con pruebas de doble rendija, con 1, 2 y 3 clicks de tiempo:
 
-![](imgs/a.png)
-![](imgs/b.png)
-![](imgs/c.png)
-![](imgs/d.png)
-![](imgs/e.png)
+[![a.png](https://i.postimg.cc/FFBXtL6D/a.png)](https://postimg.cc/SjCvCJkM)
+[![b.png](https://i.postimg.cc/28LRC5Rm/b.png)](https://postimg.cc/SJ4trkxt)
+[![c.png](https://i.postimg.cc/NFV3R3XW/c.png)](https://postimg.cc/YL6DHyb3)
+[![d.png](https://i.postimg.cc/Kz8wwGr6/d.png)](https://postimg.cc/QBvfWrzm)
+[![e.png](https://i.postimg.cc/V6ZpcxKd/e.png)](https://postimg.cc/1n6JGjhQ)
 
 ### Resultados clásico probabilistico:
 ![](imgs/unclick.png)
