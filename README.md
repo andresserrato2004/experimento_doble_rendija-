@@ -5,23 +5,23 @@ En donde la dispersión del láser se disminuye, pero la trayectoria se mantiene
 
 En donde la forma de matriz se aprecia de la siguiente manera:
 
-![](imgs/10.png)
+[![Captura-de-pantalla-2022-10-05-214233.png](https://i.postimg.cc/K8C6KhbL/Captura-de-pantalla-2022-10-05-214233.png)](https://postimg.cc/xXyx77cT)
 
 Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única y después un 25% de tocar cualquiera de lo siguientes blancos y cada uno de los receptores es reflexivo consigo mismo.
 
 ### Experimento con 2 rendijas:
 
-![](imgs/4.jpeg)
+[![Whats-App-Image-2022-10-04-at-9-50-32-PM.jpg](https://i.postimg.cc/d1jpS7ym/Whats-App-Image-2022-10-04-at-9-50-32-PM.jpg)](https://postimg.cc/cg6FvLTr)
 
-![](imgs/2.jpeg)
+[![Whats-App-Image-2022-10-04-at-9-50-32-PM-1.jpg](https://i.postimg.cc/G2C6QPHm/Whats-App-Image-2022-10-04-at-9-50-32-PM-1.jpg)](https://postimg.cc/Z9wfYd8G)
 
-![](imgs/3.jpeg)
+[![Whats-App-Image-2022-10-04-at-9-50-33-PM.jpg](https://i.postimg.cc/05dPLjs4/Whats-App-Image-2022-10-04-at-9-50-33-PM.jpg)](https://postimg.cc/bdJ7nzd0)
 
-![](imgs/5.jpeg)
+[![Whats-App-Image-2022-10-03-at-11-32-01-PM-2.jpg](https://i.postimg.cc/FzDt1fFs/Whats-App-Image-2022-10-03-at-11-32-01-PM-2.jpg)](https://postimg.cc/bSDVBw2K)
 
-![](imgs/1.jpeg)
+[![Whats-App-Image-2022-10-03-at-11-32-01-PM-1.jpg](https://i.postimg.cc/wv5Y8fSN/Whats-App-Image-2022-10-03-at-11-32-01-PM-1.jpg)](https://postimg.cc/1nzjDHRR)
 
-![](imgs/8.jpeg)
+[![Whats-App-Image-2022-10-03-at-11-32-01-PM-1.jpg](https://i.postimg.cc/wv5Y8fSN/Whats-App-Image-2022-10-03-at-11-32-01-PM-1.jpg)](https://postimg.cc/1nzjDHRR)
 
 Una manera de poder entender este experimento en forma de grafos sería la siguiente, suponiendo que tenemos 6 receptores:
 
