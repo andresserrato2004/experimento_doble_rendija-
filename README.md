@@ -1,15 +1,12 @@
-#Experimento doble rendija:
-
-
+EXPERIMENTO DOBLE RENDIJA:
 Este experimento busca demostrar el comportamiento ondulatorio de la luz que llevo a crear una nueva teoría relacionada con la física cuántica que muestra un fenómeno realmente complejo 
 
 
-#explicación del experimento:
-
+EXPLICACIÓN DEL EXPERIMENTO 
 al enviar un haz de luz sobre la doble rendija este interactuara consigo mismo lo cual creara el patrón que conocemos, esto lo explica la física cuántica como la interferencia que tienen los electrones consigo mismos en los múltiples universos posibles lo cual termina generando que el patrón que se puede crear con ondas también lo podamos crear con un haz de luz. 
 
 
-#materiales:
+MATERIALES:
 •	Papel aluminio 
 •	Laser 
 •	Cartulina 
@@ -19,13 +16,12 @@ al enviar un haz de luz sobre la doble rendija este interactuara consigo mismo l
 
 
 
-#Experimento: 
+EXPERIMENTO: 
 
-####Construcción:  
+CONSTRUCCIÓN:  
 Primero se recorto la cartulina de tal forma en la cual se pudiera pegar papel aluminio y a su vez este dejara pasar el haz de luz enviado por un láser, luego de esto se creo una doble rendija con ayuda de un bisturí buscando dejar el espacio suficiente entre estas para que pasara el haz de luz al mismo tiempo, después se colocó una tabla de tal forma que fuera la base de nuestro laser y este pudiera emitir su rayo de una forma constante sobre la doble rendija  
 
-####Desarrollo:
-
+DESARROLLO 
 Para iniciar se hizo la demostración cuántica mediante el uso de nuestras librerías simulando una sola rendija, lo cual dio como resultado que existe un 100% de probabilidad de que el rayo laser entre por la única rendija que hay y después existe un 1/3 de probabilidad de tocar los siguientes blancos.  
 
 
