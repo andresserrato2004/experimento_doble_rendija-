@@ -51,10 +51,10 @@ Es decir que tenemos un 50% de probabilidad de que el rayo láser se vaya por al
 [![e.png](https://i.postimg.cc/V6ZpcxKd/e.png)](https://postimg.cc/1n6JGjhQ)
 
 ### Resultados clásico probabilistico:
-![](imgs/unclick.png)
-![](imgs/dosClicks.png)
-![](imgs/tresClicks.png)
+[![Whats-App-Image-2022-10-04-at-10-30-23-PM.jpg](https://i.postimg.cc/HL5fXvWN/Whats-App-Image-2022-10-04-at-10-30-23-PM.jpg)](https://postimg.cc/kVJ1dcbN)
+[![Whats-App-Image-2022-10-04-at-10-31-12-PM.jpg](https://i.postimg.cc/c4FZLz6M/Whats-App-Image-2022-10-04-at-10-31-12-PM.jpg)](https://postimg.cc/nC9Nd04C)
+[![Whats-App-Image-2022-10-04-at-10-31-12-PM.jpg](https://i.postimg.cc/c4FZLz6M/Whats-App-Image-2022-10-04-at-10-31-12-PM.jpg)](https://postimg.cc/nC9Nd04C)
 ### Resultados cuántico:
-![](imgs/unclickCuantico.png)
-![](imgs/dosClicksCuantico.png)
-![](imgs/tresClicksCuantico.png)
+[![Whats-App-Image-2022-10-04-at-10-30-23-PM.jpg](https://i.postimg.cc/HL5fXvWN/Whats-App-Image-2022-10-04-at-10-30-23-PM.jpg)](https://postimg.cc/kVJ1dcbN)
+[![Whats-App-Image-2022-10-04-at-10-31-18-PM.jpg](https://i.postimg.cc/m2LBR4Zg/Whats-App-Image-2022-10-04-at-10-31-18-PM.jpg)](https://postimg.cc/qg59X9CP)
+[![Whats-App-Image-2022-10-04-at-10-31-18-PM.jpg](https://i.postimg.cc/m2LBR4Zg/Whats-App-Image-2022-10-04-at-10-31-18-PM.jpg)](https://postimg.cc/qg59X9CP)
