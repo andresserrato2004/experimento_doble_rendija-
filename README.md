@@ -4,11 +4,11 @@ PRESENTADO POR
 Samuel Felipe Díaz M, Andrea Camila Torres González y Andres Serrato
 
 
-Docente
+DOCENTE
 Luis Daniel Benavidez Navarro
 
 
-Asignatura
+ASIGNATURA
 CNYT (Ciencias Naturales y Tecnología)
 
 
